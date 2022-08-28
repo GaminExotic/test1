@@ -31,7 +31,7 @@ TextLabel.TextScaled = true
 TextLabel.TextWrapped = true
 repeat wait() until agreed 
 repeat wait() until game.Players.LocalPlayer.Character:FindFirstChild("Remotes")
-loadstring(game:HttpGet('https://pastebin.com/raw/cwDSpepQ', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GaminExotic/test2/main/test', true))()
 local key = "操你💦💔🍑👌💦操你💦💔🍑👌💦💔🍑👌💦💔🍑👌💔🍑👌💦💔🍑👌"
 local w = library:AddWindow('Autofarm')
 local tab = w:AddTab('Autofarm')
